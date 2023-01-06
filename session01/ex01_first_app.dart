@@ -1,6 +1,5 @@
-import 'dart:io';
 
-void main(List<Sting> args) {
+void main(List<String> args) {
   print("Hello, World");
   print('This is My First Application');
 }
